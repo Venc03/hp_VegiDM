@@ -1,0 +1,6 @@
+alt insertelni lehet overridolni
+- main:
+hengerdb static
+hashcode
+
+ki kell tolteni a szamolasokat es a parametereket beirni
